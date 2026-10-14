@@ -12,3 +12,11 @@ An open source project with the goal to create a fun, modern, narrative driven, 
 
 * not a paid ecosystem - factions and rules should not be locked behind expensive army books
 * Not tournament focused - fairness matters, but not at the expense of stories
+
+## Problems Spearhead is Trying to solve
+
+* 40k is expensive to get into
+* Games Workshop seems to be solely profit focused
+* Constant Rules changes destabilize collections
+* Grimdark Future's alternating turns highly encourages maxing out unit count, limiting archetypes of play
+* Weird World War isn't an inspiring setting for some of us
